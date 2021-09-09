@@ -1,1 +1,1 @@
-# Pendulum-Nandu
+# Pendulum
